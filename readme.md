@@ -1,4 +1,4 @@
-# Chatbot using Neo4j Database and LangChain
+# Chatbot using Neo4j , LangChain & Streamlit
 
 This project implements a chatbot utilizing Neo4j as the underlying database and LangChain classes for prompt engineering. The aim is to create a natural language interface over the graph data stored in Neo4j.
 
